@@ -1,0 +1,16 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+	<title>Tweets da dilma</title>
+    </head>
+    <body>
+	<form method="post" name="" action="">
+	    <input type="text" name="username" value="" />
+	    <input type="submit" name="" value="trocar usuario" />
+	</form>
+	<ol>
+	    {% for status in statuses %}
+	    <li>{{ status.text }} from <a href="http://twitter.com/{{ status.user.screen_name }}">@{{ status.user.screen_name }}</a></li>
+	    {% endfor %}
+	</ol>
+    </body>
+</html>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Wed Jul 28 14:10:35 +0000 2010</created_at>
+  <id>19743410808</id>
+  <text>Dia do Agricultor. Um grande abraço a todos aqueles que retiram da terra seu sustento e os alimentos que chegam à mesa dos brasileiros.</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>131574396</id>
+    <name>Dilma Rousseff</name>
+    <screen_name>dilmabr</screen_name>
+    <location>Brasília</location>
+    <description>Twitter pessoal de Dilma Rousseff, candidata à Presidência da República e ex-ministra do Governo Lula</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/1075356403/dilma-twitter_normal.jpg</profile_image_url>
+    <url>http://www.dilma13.com.br</url>
+    <protected>false</protected>
+    <followers_count>129174</followers_count>
+    <profile_background_color>f2f2f2</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>779119</profile_link_color>
+    <profile_sidebar_fill_color>eaeaea</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>D3D2CF</profile_sidebar_border_color>
+    <friends_count>244</friends_count>
+    <created_at>Sat Apr 10 17:46:14 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Quito</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/125195275/background-twitter-dilma-redes.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>true</verified>
+    <following>true</following>
+    <statuses_count>252</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent>false</follow_request_sent>
+    <listed_count>4998</listed_count>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Jul 27 17:57:50 +0000 2010</created_at>
+  <id>19675171560</id>
+  <text>@ibere40 @Vilma400 @juliaarruda vamos nos ver aí amanhã, amigos!</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id>19673955009</in_reply_to_status_id>
+  <in_reply_to_user_id>42411947</in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name>ibere40</in_reply_to_screen_name>
+  <user>
+    <id>131574396</id>
+    <name>Dilma Rousseff</name>
+    <screen_name>dilmabr</screen_name>
+    <location>Brasília</location>
+    <description>Twitter pessoal de Dilma Rousseff, candidata à Presidência da República e ex-ministra do Governo Lula</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/1075356403/dilma-twitter_normal.jpg</profile_image_url>
+    <url>http://www.dilma13.com.br</url>
+    <protected>false</protected>
+    <followers_count>128403</followers_count>
+    <profile_background_color>f2f2f2</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>779119</profile_link_color>
+    <profile_sidebar_fill_color>eaeaea</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>D3D2CF</profile_sidebar_border_color>
+    <friends_count>244</friends_count>
+    <created_at>Sat Apr 10 17:46:14 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Quito</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/125195275/background-twitter-dilma-redes.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>true</verified>
+    <following>true</following>
+    <statuses_count>251</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent>false</follow_request_sent>
+    <listed_count/>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Tue Jul 27 17:48:42 +0000 2010</created_at>
+  <id>19674618168</id>
+  <text>Construção, do Chico Buarque, é um das mais belas músicas de um período de resistência...  http://migre.me/10kx7</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>131574396</id>
+    <name>Dilma Rousseff</name>
+    <screen_name>dilmabr</screen_name>
+    <location>Brasília</location>
+    <description>Twitter pessoal de Dilma Rousseff, candidata à Presidência da República e ex-ministra do Governo Lula</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/1075356403/dilma-twitter_normal.jpg</profile_image_url>
+    <url>http://www.dilma13.com.br</url>
+    <protected>false</protected>
+    <followers_count>128404</followers_count>
+    <profile_background_color>f2f2f2</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>779119</profile_link_color>
+    <profile_sidebar_fill_color>eaeaea</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>D3D2CF</profile_sidebar_border_color>
+    <friends_count>244</friends_count>
+    <created_at>Sat Apr 10 17:46:14 +0000 2010</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Quito</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/125195275/background-twitter-dilma-redes.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <profile_use_background_image>true</profile_use_background_image>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>true</verified>
+    <following>true</following>
+    <statuses_count>250</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+    <follow_request_sent>false</follow_request_sent>
+    <listed_count/>
+  </user>
+  <geo/>
+  <coordinates/>
+  <place/>
+  <contributors/>
+</status>
+</statuses>
